@@ -35,5 +35,6 @@ Using this I was able to decypt this by counting the ammount of "chads" and "the
 
 Now that I had the password I was able to look at the encrypted files and was able to find the flag in one of the pictures:
 
+![image](https://user-images.githubusercontent.com/46825266/170875008-af66fe05-f0d0-4524-b7d9-c682d06ac6d9.png)
 
 This was an awesome challange that I was able to get my first "first blood" on and will always remember this one throughout the rest of the CTF's I do!
